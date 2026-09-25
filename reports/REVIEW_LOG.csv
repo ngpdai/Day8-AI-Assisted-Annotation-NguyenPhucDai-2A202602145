@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe oto g?n mép trái gi?a màn hình,Edited,bbox du?c gán tràn ra ngoài
+2,frame_0331,xe oto v?n có th? th?y du?c ? trên cùng bên trái,added,Th?y thân xe và d? ranh gi?i theo GUIDELINE_LABEL.md
+2,frame_0380,xe oto v?n có th? th?y du?c ? trên cùng bên trái,added,Th?y thân xe và d? ranh gi?i theo GUIDELINE_LABEL.md
